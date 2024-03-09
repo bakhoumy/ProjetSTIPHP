@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Les participants sont
+Fatou Seck
+Ndeye Fatou Diouf
+Ephigenie Jeremie Bandiaky

@@ -1,0 +1,9 @@
+@import url('https://fonts.googlreapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+  :root{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: blue;
+}
+
